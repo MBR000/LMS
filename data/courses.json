@@ -1,0 +1,698 @@
+[
+	{
+		"name": "数据结构308",
+		"id": 0,
+		"classes": 2020211308,
+		"week": [
+			true,
+			false,
+			true,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[
+				"09:50",
+				"11:25"
+			],
+			[],
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N113"
+		],
+		"teacher": "李老师",
+		"info": [
+			"数据结构课程",
+			"无",
+			"18周周四9:00-12:00"
+		]
+	},
+	{
+		"name": "数据逻辑310",
+		"id": 1,
+		"classes": 2020211310,
+		"week": [
+			false,
+			true,
+			false,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S117"
+		],
+		"teacher": "刘老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "计算机系统308",
+		"id": 2,
+		"classes": 2020211308,
+		"week": [
+			false,
+			false,
+			true,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[
+				"13:00",
+				"14:35"
+			],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S208"
+		],
+		"teacher": "老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "计算机系统课程设计309",
+		"id": 3,
+		"classes": 2020211309,
+		"week": [
+			false,
+			true,
+			false,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[
+				"09:50",
+				"11:25"
+			],
+			[],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S208"
+		],
+		"teacher": "杨老师",
+		"info": [
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"name": "组成原理308",
+		"id": 4,
+		"classes": 2020211308,
+		"week": [
+			false,
+			false,
+			false,
+			true,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N209"
+		],
+		"teacher": "丁老师",
+		"info": [
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"name": "数据结构310",
+		"id": 5,
+		"classes": 2020211310,
+		"week": [
+			true,
+			false,
+			true,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			128,
+			"S101"
+		],
+		"teacher": "赵老师",
+		"info": [
+			"无",
+			"",
+			"无"
+		]
+	},
+	{
+		"name": "组成逻辑310",
+		"id": 6,
+		"classes": 2020211310,
+		"week": [
+			false,
+			false,
+			false,
+			false,
+			true,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[],
+			[
+				"00:00",
+				"00:00"
+			],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S103"
+		],
+		"teacher": "欧老师",
+		"info": [
+			"",
+			"",
+			"无"
+		]
+	},
+	{
+		"name": "java308",
+		"id": 7,
+		"classes": 2020211308,
+		"week": [
+			false,
+			false,
+			false,
+			false,
+			true,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[],
+			[
+				"13:00",
+				"16:25"
+			],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N403"
+		],
+		"teacher": "吴老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "java310",
+		"id": 8,
+		"classes": 2020211310,
+		"week": [
+			false,
+			false,
+			false,
+			false,
+			true,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[],
+			[
+				"13:00",
+				"16:25"
+			],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N403"
+		],
+		"teacher": "吴老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "毛概308",
+		"id": 9,
+		"classes": 2020211308,
+		"week": [
+			false,
+			false,
+			false,
+			true,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[
+				"09:50",
+				"11:25"
+			],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N301"
+		],
+		"teacher": "宋老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "体育308",
+		"id": 10,
+		"classes": 2020211308,
+		"week": [
+			false,
+			false,
+			false,
+			true,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[
+				"13:00",
+				"14:35"
+			],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			128,
+			"教学楼大厅"
+		],
+		"teacher": "吴迪",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "计网309",
+		"id": 11,
+		"classes": 2020211309,
+		"week": [
+			true,
+			false,
+			true,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N516"
+		],
+		"teacher": "高老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "计组309",
+		"id": 12,
+		"classes": 2020211309,
+		"week": [
+			true,
+			false,
+			false,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[
+				"09:50",
+				"12:15"
+			],
+			[],
+			[],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S208"
+		],
+		"teacher": "易老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "数据结构309",
+		"id": 13,
+		"classes": 2020211309,
+		"week": [
+			false,
+			false,
+			true,
+			false,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[
+				"09:50",
+				"11:25"
+			],
+			[],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N301"
+		],
+		"teacher": "张老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "毛概309",
+		"id": 14,
+		"classes": 2020211309,
+		"week": [
+			false,
+			false,
+			false,
+			true,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[
+				"09:50",
+				"11:25"
+			],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N319"
+		],
+		"teacher": "宋老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "体育309",
+		"id": 15,
+		"classes": 2020211309,
+		"week": [
+			false,
+			false,
+			false,
+			true,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[
+				"13:00",
+				"14:35"
+			],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			128,
+			"大厅"
+		],
+		"teacher": "吴迪",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "自动机309",
+		"id": 16,
+		"classes": 2020211309,
+		"week": [
+			false,
+			false,
+			false,
+			true,
+			false,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[
+				"14:45",
+				"16:25"
+			],
+			[],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S510"
+		],
+		"teacher": "杨老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "java309",
+		"id": 17,
+		"classes": 2020211309,
+		"week": [
+			false,
+			false,
+			false,
+			false,
+			true,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[],
+			[
+				"13:00",
+				"15:30"
+			],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"N201"
+		],
+		"teacher": "吴老师",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	},
+	{
+		"name": "形势与政策309",
+		"id": 18,
+		"classes": 2020211309,
+		"week": [
+			false,
+			false,
+			false,
+			false,
+			true,
+			false,
+			false
+		],
+		"time": [
+			[],
+			[],
+			[],
+			[],
+			[
+				"08:00",
+				"09:35"
+			],
+			[],
+			[]
+		],
+		"place": [
+			131,
+			"S302"
+		],
+		"teacher": "马院02",
+		"info": [
+			"无",
+			"无",
+			"无"
+		]
+	}
+]
